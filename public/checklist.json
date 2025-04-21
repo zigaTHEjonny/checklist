@@ -1,0 +1,28 @@
+{
+    "list_id": 1,
+    "checked_items": [
+        {
+            "task_name": "jajca"
+        },
+        {
+            "task_name": "Krožniki"
+        },
+        {
+            "task_name": "Vrata"
+        }
+    ],
+    "unchecked_items": [
+        {
+            "task_name": "kruh"
+        },
+        {
+            "task_name": "Okna"
+        },
+        {
+            "task_name": "sok"
+        },
+        {
+            "task_name": "TV"
+        }
+    ]
+}
